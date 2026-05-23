@@ -174,6 +174,18 @@ The relay experiments, quantum framework, and evidence audit system are part of 
 - [github.com/michaelfullmer](https://github.com/michaelfullmer)
 
 ---
+## Citation
+
+If you use this tool or reference this research, please cite:
+
+Fullmer, Michael. "Context as a Safety Mechanism: A Unified Framework for 
+Quantum Context Routing, Relay Drift Experiments, and Evidence Audit Systems 
+in AI Safety." ChronoAI Solutions, May 2026.
+
+ORCID: 0009-0009-6926-3240  
+GitHub: https://github.com/michaelfullmer/ChronoAI-Relay-Experiment  
+Preprint DOI: https://doi.org/10.5281/zenodo.20351307
+
 
 ## License
 
